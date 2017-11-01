@@ -23,4 +23,4 @@ TeWindow("TeWindow").TeScreen("QRY MA").SendKey TE_ENTER
 WAIT (3)
 TeWindow("TeWindow").TeScreen("QRY MA").Sync
 End function
-
+QueryACT
